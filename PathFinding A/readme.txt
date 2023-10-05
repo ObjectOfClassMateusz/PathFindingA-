@@ -7,3 +7,5 @@ stage of designing it, I ran out of new connections between previously discovere
 
 Attention . The program does not have a control module. 
 To edit paths, you need to change the code and compile it again
+
+Program : bin/Debug/szkola.exe
