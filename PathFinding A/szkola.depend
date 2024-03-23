@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683987409 source:c:\users\pc\onedrive\pulpit\szkola\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+
+1708870881 source:c:\users\pc\onedrive\pulpit\pathfinding a\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	<math.h>
+	<algorithm>
+
